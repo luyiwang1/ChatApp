@@ -11,3 +11,11 @@ How to run:
   type npm start
   
   Open a brower and go to http://localhost:6060/
+  
+  Changing username by using "/name:<new username>" 
+  
+  Changing username color by using "/color:RRGGBB"
+  
+  opening another browser (Firefox, Google Chrome, Internet Explorer) could make a new user, and chat with each others.
+  
+  Have Fun!
